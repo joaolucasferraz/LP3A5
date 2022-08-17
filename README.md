@@ -1,5 +1,4 @@
-LP3A5 - Professor Diego
-Aluno: João Lucas Ferraz - SP3013529
+LP3A5 - Professor Diego ------ Aluno: João Lucas Ferraz - SP3013529
 
 
 ----------EMENTA--------
