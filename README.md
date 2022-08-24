@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/github/license/joaolucasferraz/LP3A5?style=flat-square)](https://github.com/joaolucasferraz/LP3A5/blob/main/LICENSE)
+
 LP3A5 - Professor Diego ------ Aluno: João Lucas Ferraz - SP3013529
 
 
